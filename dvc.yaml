@@ -6,4 +6,4 @@ stages:
       - src/utils/all_utils.py
       - config/config.yaml
     outs:
-      - artifacts/raw_local_dir/data.csv
+      - artifacts_1/raw_local_dir/data.csv
